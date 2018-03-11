@@ -1,0 +1,11 @@
+C:\Users\adm\source\repos\StudyEntityExample\Class.Domain\bin\Debug\Class.Domain.dll
+C:\Users\adm\source\repos\StudyEntityExample\Class.Domain\bin\Debug\Class.Domain.pdb
+C:\Users\adm\source\repos\StudyEntityExample\Class.Domain\obj\Debug\Class.Domain.csprojResolveAssemblyReference.cache
+C:\Users\adm\source\repos\StudyEntityExample\Class.Domain\obj\Debug\Class.Domain.csproj.CoreCompileInputs.cache
+C:\Users\adm\source\repos\StudyEntityExample\Class.Domain\obj\Debug\Class.Domain.dll
+C:\Users\adm\source\repos\StudyEntityExample\Class.Domain\obj\Debug\Class.Domain.pdb
+C:\Users\adm\source\repos\StudyEntityExample\Class.Domain\bin\Debug\EntityFramework.dll
+C:\Users\adm\source\repos\StudyEntityExample\Class.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\adm\source\repos\StudyEntityExample\Class.Domain\bin\Debug\EntityFramework.xml
+C:\Users\adm\source\repos\StudyEntityExample\Class.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\adm\source\repos\StudyEntityExample\Class.Domain\obj\Debug\Class.Domain.csproj.CopyComplete

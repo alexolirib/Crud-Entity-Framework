@@ -1,0 +1,15 @@
+C:\Users\adm\source\repos\StudyEntityExample\Class.Domain.Model\bin\Debug\Class.Domain.Model.dll.config
+C:\Users\adm\source\repos\StudyEntityExample\Class.Domain.Model\bin\Debug\Class.Domain.Model.dll
+C:\Users\adm\source\repos\StudyEntityExample\Class.Domain.Model\bin\Debug\Class.Domain.Model.pdb
+C:\Users\adm\source\repos\StudyEntityExample\Class.Domain.Model\bin\Debug\Class.Domain.dll
+C:\Users\adm\source\repos\StudyEntityExample\Class.Domain.Model\bin\Debug\EntityFramework.dll
+C:\Users\adm\source\repos\StudyEntityExample\Class.Domain.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\adm\source\repos\StudyEntityExample\Class.Domain.Model\bin\Debug\Class.Domain.pdb
+C:\Users\adm\source\repos\StudyEntityExample\Class.Domain.Model\bin\Debug\EntityFramework.xml
+C:\Users\adm\source\repos\StudyEntityExample\Class.Domain.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\adm\source\repos\StudyEntityExample\Class.Domain.Model\obj\Debug\Class.Domain.Model.csprojResolveAssemblyReference.cache
+C:\Users\adm\source\repos\StudyEntityExample\Class.Domain.Model\obj\Debug\Class.Domain.Model.csproj.CoreCompileInputs.cache
+C:\Users\adm\source\repos\StudyEntityExample\Class.Domain.Model\obj\Debug\Class.Domain.Model.csproj.CopyComplete
+C:\Users\adm\source\repos\StudyEntityExample\Class.Domain.Model\obj\Debug\Class.Domain.Model.dll
+C:\Users\adm\source\repos\StudyEntityExample\Class.Domain.Model\obj\Debug\Class.Domain.Model.pdb
+C:\Users\adm\source\repos\StudyEntityExample\Class.Domain.Model\bin\Debug\Class.Domain.dll.config

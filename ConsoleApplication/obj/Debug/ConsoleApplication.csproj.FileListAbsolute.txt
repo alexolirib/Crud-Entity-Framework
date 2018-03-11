@@ -1,0 +1,16 @@
+C:\Users\adm\source\repos\StudyEntityExample\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+C:\Users\adm\source\repos\StudyEntityExample\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+C:\Users\adm\source\repos\StudyEntityExample\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+C:\Users\adm\source\repos\StudyEntityExample\ConsoleApplication\bin\Debug\Class.Domain.dll
+C:\Users\adm\source\repos\StudyEntityExample\ConsoleApplication\bin\Debug\Class.Domain.Model.dll
+C:\Users\adm\source\repos\StudyEntityExample\ConsoleApplication\bin\Debug\EntityFramework.dll
+C:\Users\adm\source\repos\StudyEntityExample\ConsoleApplication\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\adm\source\repos\StudyEntityExample\ConsoleApplication\bin\Debug\Class.Domain.Model.pdb
+C:\Users\adm\source\repos\StudyEntityExample\ConsoleApplication\bin\Debug\Class.Domain.pdb
+C:\Users\adm\source\repos\StudyEntityExample\ConsoleApplication\bin\Debug\EntityFramework.xml
+C:\Users\adm\source\repos\StudyEntityExample\ConsoleApplication\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\adm\source\repos\StudyEntityExample\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\adm\source\repos\StudyEntityExample\ConsoleApplication\obj\Debug\ConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\adm\source\repos\StudyEntityExample\ConsoleApplication\obj\Debug\ConsoleApplication.csproj.CopyComplete
+C:\Users\adm\source\repos\StudyEntityExample\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+C:\Users\adm\source\repos\StudyEntityExample\ConsoleApplication\obj\Debug\ConsoleApplication.pdb

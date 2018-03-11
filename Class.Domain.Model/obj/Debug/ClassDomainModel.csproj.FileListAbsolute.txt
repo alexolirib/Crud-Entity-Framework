@@ -1,0 +1,16 @@
+C:\Users\adm\source\repos\StudyEntityExample\Class.Domain.Model\bin\Debug\Class.Domain.Model.dll
+C:\Users\adm\source\repos\StudyEntityExample\Class.Domain.Model\bin\Debug\Class.Domain.Model.pdb
+C:\Users\adm\source\repos\StudyEntityExample\Class.Domain.Model\bin\Debug\Class.Domain.dll
+C:\Users\adm\source\repos\StudyEntityExample\Class.Domain.Model\bin\Debug\EntityFramework.dll
+C:\Users\adm\source\repos\StudyEntityExample\Class.Domain.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\adm\source\repos\StudyEntityExample\Class.Domain.Model\bin\Debug\Class.Domain.pdb
+C:\Users\adm\source\repos\StudyEntityExample\Class.Domain.Model\bin\Debug\EntityFramework.xml
+C:\Users\adm\source\repos\StudyEntityExample\Class.Domain.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\adm\source\repos\StudyEntityExample\Class.Domain.Model\obj\Debug\ClassDomainModel.csprojResolveAssemblyReference.cache
+C:\Users\adm\source\repos\StudyEntityExample\Class.Domain.Model\obj\Debug\ClassDomainModel.csproj.CoreCompileInputs.cache
+C:\Users\adm\source\repos\StudyEntityExample\Class.Domain.Model\obj\Debug\ClassDomainModel.csproj.CopyComplete
+C:\Users\adm\source\repos\StudyEntityExample\Class.Domain.Model\obj\Debug\Class.Domain.Model.dll
+C:\Users\adm\source\repos\StudyEntityExample\Class.Domain.Model\obj\Debug\Class.Domain.Model.pdb
+C:\Users\adm\source\repos\StudyEntityExample\Class.Domain.Model\obj\Debug\Class.Domain.Model.Migrations.firstMigration.resources
+C:\Users\adm\source\repos\StudyEntityExample\Class.Domain.Model\obj\Debug\ClassDomainModel.csproj.GenerateResource.cache
+C:\Users\adm\source\repos\StudyEntityExample\Class.Domain.Model\obj\Debug\Class.Domain.Model.Migrations.AddTableAuthorColumnAge.resources
