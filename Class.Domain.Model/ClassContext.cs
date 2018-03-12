@@ -14,5 +14,10 @@ namespace ClassDomainModel
         public DbSet<Course> Course { get; set; }
         public DbSet<Evaluation> Evaluation { get; set; }
         public DbSet<Student> Student { get; set; }
+
+        public ClassContext() : base("MinhaStringConexao")
+        {
+
+        }
     }
 }

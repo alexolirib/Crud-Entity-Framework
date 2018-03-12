@@ -1,0 +1,18 @@
+﻿@model List<Class.Domain.Author>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Author:</h2>
+
+<ul>
+    @foreach (var item in Model)
+    {
+        <li>
+             Id = @item.id <br />
+            Nome =@item.Name <br />
+            Idade = @item.Age <br />
+        </li>
+    }
+</ul>
+

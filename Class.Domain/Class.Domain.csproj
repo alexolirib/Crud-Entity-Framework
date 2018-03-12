@@ -50,8 +50,10 @@
     <Compile Include="Course.cs" />
     <Compile Include="Author.cs" />
     <Compile Include="Evaluation.cs" />
+    <Compile Include="repositorio\IcollectionAuthor.cs" />
     <Compile Include="Student.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

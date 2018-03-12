@@ -58,6 +58,8 @@
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="repositorioModel\RepositorioBancoAuthor.cs" />
+    <Compile Include="repositorioModel\repositorioMemoriaAuthor.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Class.Domain\Class.Domain.csproj">
